@@ -1,0 +1,16 @@
+.bg-banner-one {
+    background-color: #264653;
+}
+.bg-banner-two {
+    background-color: #4db3dc;
+}
+
+.bg-banner-three {
+    background-color: rgba(231, 111, 81, 0.1);
+}
+.ratings-icon {
+    width: 20px;
+}
+.app-store-icon {
+    width: 135px;
+}
